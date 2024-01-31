@@ -1,6 +1,6 @@
 import { Outlet, Link } from "react-router-dom";
 import styles from "./Layout.module.css";
-import Contoso from "../../assets/Deloitte.png";
+import Deloitte from "../../assets/Deloitte.png";
 import { CopyRegular, ShareRegular } from "@fluentui/react-icons";
 import { Dialog, Stack, TextField, ICommandBarStyles, IButtonStyles } from "@fluentui/react";
 import { useContext, useEffect, useState } from "react";
